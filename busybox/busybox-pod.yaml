@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: buzybox
+  namespace: a-maxmudov
+
+  labels:
+    name: myapp
+    author: a-maxmudov
+spec:
+  containers:
+  - name: myapp
+    image: busybox:stable-musl
+    command: [ "sleep" ]
+    args: ["3600" ]

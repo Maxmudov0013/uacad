@@ -1,0 +1,25 @@
+      author: a-maxmudov
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"a-maxmudov","name":"nginx2","project":"practice"},"name":"nginx2","namespace":"a-maxmudov"},"spec":{"containers":[{"image":"nginx:latest","name":"nginx2","ports":[{"containerPort":80}],"resources":null}]}}
+      author: a-maxmudov
+      author: a-taniqulov
+      author: a-taniqulov
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"davron","project":"practice"},"name":"nginx1","namespace":"d-tursunov"},"spec":{"containers":[{"image":"nginx","name":"nginx"}]}}
+      author: davron
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"davron","project":"practice"},"name":"nginx2","namespace":"d-tursunov"},"spec":{"containers":[{"image":"nginx","name":"nginx"}]}}
+      author: davron
+      author: dilshod
+      author: dilshod
+      author: muxammadkarim
+      author: muxammadkarim
+      author: ravshan
+      author: ravshan
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"xotam","project":"practice","run":"nginx"},"name":"nginx1","namespace":"x-baxromov"},"spec":{"containers":[{"image":"nginx","name":"nginx1"}]}}
+      author: xotam
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"xotam","project":"practice","run":"nginx"},"name":"nginx2","namespace":"x-baxromov"},"spec":{"containers":[{"image":"nginx","name":"nginx2"}]}}
+      author: xotam
+      author: xurshid
+      author: xurshid
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"Ziyavuddin","project":"practice"},"name":"nginx1","namespace":"z-vakhobov"},"spec":{"containers":[{"image":"nginx","name":"nginx"}]}}
+      author: Ziyavuddin
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"Ziyavuddin","project":"practice"},"name":"nginx2","namespace":"z-vakhobov"},"spec":{"containers":[{"image":"nginx","name":"nginx"}]}}
+      author: Ziyavuddin
